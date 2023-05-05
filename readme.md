@@ -8,11 +8,11 @@
 * Description : Join us to explore Google Kubernetes Engine (GKE) and learn how to create a container using Cloud Build and store it in Container Registry. Discover the features of Kubernetes and how GKE compares. We'll dive into Kubernetes architecture and show you how to deploy a Kubernetes cluster using GKE. You'll also learn how to deploy Pods to a GKE cluster and view and manage Kubernetes objects. By the end of the talk, you'll be ready to take your first steps into the world of GKE deployment!
 
      * Introduction
-        * Introduction to Google Cloud
-        * Introduction to Containers and Kubernetes
-        * Kubernetes Architecture
-        * Introduction to Kubernetes Workloads
-        * Q&A
+     * Introduction to Google Cloud
+     * Introduction to Containers and Kubernetes
+     * Kubernetes Architecture
+     * Introduction to Kubernetes Workloads
+     * Q&A
 
 * Date: 06th May 2023 
 
