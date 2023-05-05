@@ -29,5 +29,5 @@
 
 Feel free to ping me anytime on [Telegram](http://telegram.me/nomadicmehul) or [Twitter](http://twitter.com/nomadicmehul) and I’m happy to chat with you.
 
-For any queries raise a [issue](hhttps://github.com/nomadicmehul/**/issues) and please feel free to submit a PR anytime :)
+For any queries raise a [issue](hhttps://github.com/nomadicmehul/CNCF-Ahm-Meetup-May-23/issues) and please feel free to submit a PR anytime :)
 
