@@ -2,6 +2,8 @@
 
 [Cloud Native Ahmedabad Meetup](https://community.cncf.io/events/details/cncf-ahmedabad-presents-cloud-native-ahmedabad-meetup-7/) chapter is organising a meetup to explore and spread the a word about various CNCF projects and cloud native technologies.
 
+![](event-files/meetup.jpeg)
+
 * Talk title : Google Kubernetes Engine 101: From Containers to Deployment
 * Description : Join us to explore Google Kubernetes Engine (GKE) and learn how to create a container using Cloud Build and store it in Container Registry. Discover the features of Kubernetes and how GKE compares. We'll dive into Kubernetes architecture and show you how to deploy a Kubernetes cluster using GKE. You'll also learn how to deploy Pods to a GKE cluster and view and manage Kubernetes objects. By the end of the talk, you'll be ready to take your first steps into the world of GKE deployment!
 
@@ -13,6 +15,8 @@
         * Q&A
 
 * Date: 06th May 2023 
+
+![](event-files/speaker.jpeg)
 
 ### Goals : 
 
